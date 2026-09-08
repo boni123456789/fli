@@ -32,6 +32,10 @@ dependencies = [
     "ratelimit>=2.2.1",
     "tenacity>=9.0.0",
     "typer>=0.15.1",
+    "fastapi>=0.115.6",
+    "fastmcp>=3.2",
+    "pydantic-settings>=2.0.0",
+    "uvicorn>=0.34.0",
 ]
 
 [project.optional-dependencies]
